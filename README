@@ -74,7 +74,7 @@ Continuous integration builds (GCC, clang):
   https://travis-ci.org/yarrick/lwip-merged
 
 
-DOCUMENTATION
+DOCUMENTATIONN
 
 Self documentation of the source code is regularly extracted from the current
 Git sources and is available from this web page:
